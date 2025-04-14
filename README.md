@@ -52,7 +52,7 @@ solana config get
 cat ~/.config/solana/id.json
 ```
 
-> 📥 Import this private key (`id.json`) into Backpack and fund your wallet.
+> 📥 Import this private key (the one in brackets) into Backpack and fund your wallet.
 
 ---
 
