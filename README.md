@@ -1,5 +1,7 @@
 # ECLIPSE-POW
-Buy a vps on contabo.com, hostbrr or aeza
+Buy a vps on contabo.com, hostbrr or aeza.
+Connect to the remote vps using termius ssh client or windows powershell ( ssh username@host -p port)
+
 ## 🔧 System Preparation
 
 ### 1. **Update & Upgrade Packages**
