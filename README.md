@@ -1,6 +1,9 @@
 # ECLIPSE-POW
 Buy a vps on contabo.com, hostbrr or aeza.
-Connect to the remote vps using termius ssh client or windows powershell ( ssh username@host -p port)
+Connect to the remote vps using termius ssh client or windows powershell 
+```bash
+ssh username@host -p port
+```
 
 ## 🔧 System Preparation
 
