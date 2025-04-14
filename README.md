@@ -1,4 +1,5 @@
 # ECLIPSE-POW
+Buy a vps on contabo.com, hostbrr or aeza
 ## 🔧 System Preparation
 
 ### 1. **Update & Upgrade Packages**
