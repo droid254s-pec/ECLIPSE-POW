@@ -1,5 +1,6 @@
 # ECLIPSE-POW
 Buy a vps on contabo.com, hostbrr or aeza. A personal windows computer with wsl installed will also work. Refer to this link for installing linux on windows correctly== https://github.com/0xmoei/Install-Linux-on-Windows
+
 Connect to the remote vps using termius ssh client or windows powershell 
 ```bash
 ssh username@host -p port
